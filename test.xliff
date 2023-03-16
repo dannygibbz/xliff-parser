@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff srcLang="en" trgLang="de" version="2.0"
+ xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:mda="urn:oasis:names:tc:xliff:metadata:2.0">
+ <file id="1">
+  <mda:metadata>
+   <mda:metaGroup category="gainsight_attributes">
+    <mda:meta type="engagementId">ea977072-74ac-4627-8b89-c2dfb09662d5</mda:meta>
+    <mda:meta type="version">2</mda:meta>
+   </mda:metaGroup>
+  </mda:metadata>
+  <unit id="informationaccuracy">
+   <segment>
+    <source>Information Accuracy</source>
+    <target>Information Genauigkeit</target>
+   </segment>
+  </unit>
+  <unit id="x">
+   <segment>
+    <source>X</source>
+   </segment>
+  </unit>
+  <unit id="whenregisteringanewparticipantthecardholdermustbeatleast18yearsofage">
+   <segment>
+    <source>When registering a new participant the cardholder must be at least 18 years of age.</source>
+     <target>Wann du registrierst ein neues teilnehmer die Kartehalter muss wenisgtens 18 Jahre alt sein</target>
+   </segment>
+  </unit>
+  <unit id="toavoidparticipantpaymentissuespleaseensurethatallinformationenteredisaccurateandcompleteincluding">
+   <segment>
+    <source>To avoid participant payment issues, please ensure that all information entered is accurate and complete, including: </source>
+   </segment>
+  </unit>
+  <unit id="dateofbirth">
+   <segment>
+    <source>Date of Birth</source>
+   </segment>
+  </unit>
+  <unit id="taxidentificationinformation">
+   <segment>
+    <source>Tax Identification information</source>
+   </segment>
+  </unit>
+  <unit id="address">
+   <segment>
+    <source>Address</source>
+   </segment>
+  </unit>
+  <unit id="participantslegalnamenonicknames">
+   <segment>
+    <source>Participant's legal name (no nicknames)</source>
+   </segment>
+  </unit>
+  <unit id="inaccurateinformationcouldpreventtheparticipantfromactivatingtheirclincardprepaidmastercardorvisaorcauseanunneccesarydelayinpayment">
+   <segment>
+    <source>Inaccurate information could prevent the participant from activating their ClinCard prepaid Mastercard or Visa, or cause an unneccesary delay in payment.</source>
+   </segment>
+  </unit>
+  <unit id="understood">
+   <segment>
+    <source>UNDERSTOOD</source>
+   </segment>
+  </unit>
+ </file>
+</xliff>
